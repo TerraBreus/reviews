@@ -7,3 +7,5 @@ Of course this is a sci-fi movie, so the evil bastards are aliens. Yet there is 
 Unfortunately, I would say that is about the only thing I found interesting. The rest of this movie is filled with bad dialogue, stiff acting, a poor storyline, unnecessarily long fighting scenes and an american-esque obsession with guns.
 
 4/10
+
+Written on 12-11-2025
