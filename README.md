@@ -30,9 +30,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 ```
 - The Dispossessed by Ursula Le Guin
 - Sofa so good by Totorro
-- NOW I SEE THE LIGHT by toe
 - soft berlin summer by Loutouse
-- I love my computer by Ninajirachi
 - Special computer by Sandokai
 - Snocaps by Snocaps
 ```
