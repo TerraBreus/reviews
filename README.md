@@ -1,7 +1,7 @@
 ###### The idea behind this repository is inspired by [this video](https://www.youtube.com/watch?v=N4YjXJVzoZY).
 
 ## What is this repo?
-_```In a world with infinite information available at your fingertips, it is easy to get lost in a world of consumption. This repository is an antidote to that. 
+_```In a world with infinite information available at your fingertips, it is easy to get lost in consumption. This repository is an antidote to that. 
 By writing (short) reviews on what I consume, I hope to restore balance between the subtle counterplay of creation and consumption.```_
 
 #### Possible positive consequences
