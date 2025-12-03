@@ -8,8 +8,8 @@ However, this seems more like an irrelevant tangent from its main sound as when 
 By separating the song in two parts it becomes clear this was done with intention yet it feels more like a diluted introduction to the guitars rather than an actual song.
 
 Overall a good collection of songs that isolate you from the world in a state of anger and confusion.
-It does miss that kind of *umpf* that ties the songs together and creates the depth it is so close to reaching.
-As of now, it scratches the surface of a story but leaves you somewhat unfulfilled and dissatisfied throughout and at the end.
+It does miss that kind of **umpf** that ties the songs together and creates the depth it is so close to reaching.
+As of now, it scratches the surface of a universe but leaves you somewhat unfulfilled and dissatisfied throughout and at the end.
 
 6/10
 
