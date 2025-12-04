@@ -30,7 +30,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 ```
 - The Dispossessed by Ursula Le Guin
 - Sofa so good by Totorro
-- Special computer by Sandokai
-- Abbey Road - The Beatles
 - Splitville
+- Foxy Brown
+- Men in the sun; and Other Palestinian Stories by Ghassan Kanafani
 ```
