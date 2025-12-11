@@ -32,4 +32,5 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Sofa so good by Totorro
 - Foxy Brown
 - Koln '75
+- Norwegian Wood by Haruki Murakami
 ```
