@@ -28,9 +28,9 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
-- The Dispossessed by Ursula Le Guin
 - Sofa so good by Totorro
 - Foxy Brown
 - Koln '75
 - Norwegian Wood by Haruki Murakami
+- The Last Viking
 ```
