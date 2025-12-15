@@ -28,9 +28,15 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
-- Sofa so good by Totorro
 - Foxy Brown
 - Koln '75
-- Norwegian Wood by Haruki Murakami
 - The Last Viking
+- Guitar by Mac DeMarco
+- life for rent by Dido
+- A Grand Don't Come For Free by The Streets
+- Brick Houses by Few Bits
+- where it hurts less by GENDEMA
+- choke enough by Oklou
+- Champion by Pom Poko
+- Black Classical Music by Yussef Dayes
 ```
