@@ -20,9 +20,11 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 ```
 
 ## ToC
-- [Movies](./Movies)
-- [Music albums](./Albums)
-- [Books](./Books)
+- [Movies:](./Movies) _Movies I've recently seen. Often in the cinema's._
+- [Music albums:](./Albums) _Albums I've been listening to._
+- [Books:](./Books) _Books I've been reading._
+- [Games:](./Games) _Games I've been playing._
+- [Programming:](./Programming) _Reflections on programming languages or school assignments._
 
 ## ToDo
 `Some reviews I still want to make but have not found the time/energy for:`
@@ -34,5 +36,4 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - choke enough by Oklou
 - Champion by Pom Poko
 - Black Classical Music by Yussef Dayes
-- The Royal Writ
 ```
