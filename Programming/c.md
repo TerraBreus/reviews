@@ -1,10 +1,10 @@
-##### Inspired by [this website](https://haglobah.github.io/Mastering-42/holy_graph/cpp00-04.html)
+##### Inspired by [this website](https://haglobah.github.io/Mastering-42/holy_graph/miniRT.html#Aftercare)
 
 ### What is C like and when would you want to use it?
 
 C is incredibly powerful. It is so powerful you could use it for literally anything. It is the key to all doors. However, it might not always be a good fit.
 
-You can imagine C being like your great grandfather. You have heard many great things about him, but when you talk to him you get little out of it. You start talking with your family about him and you hear you have to talk in a very specific manner for him to understand things. This 'specific manner' is very slow and tedious. yoooouuuuu haaaaaavveeee tooooo taaaaaaalk veeeeeryyyyyy sloooooow foooooor hiiiiiiiiim toooooo uuuuuundeeeeersssstaaaaaaand. At first you are baffled how much work it is to make him say something every so slightly comprehensable. But the more you talk to him, the more he starts to show of himself. 
+You can imagine C being like your great grandfather. You have heard many great things about him, but when you talk to him you get little out of it. You start talking with your family about him and you hear you have to talk in a very specific manner for him to understand things. This 'specific manner' is very slow and tedious. yoooouuuuu haaaaaavveeee tooooo taaaaaaalk veeeeeryyyyyy sloooooow foooooor hiiiiiiiiim toooooo uuuuuundeeeeersssstaaaaaaand. At first you are baffled how much work it takes to make him say something every so slightly comprehensable. But the more you talk to him, the more he starts to show of himself. 
 
 C has many tricks up its sleeve. But you need to do things in a very specific manner if you want it to work.
 
