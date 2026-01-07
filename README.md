@@ -30,11 +30,22 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
-- Brick Houses by Few Bits
-- where it hurts less by GENDEMA
+- Brick Houses by Few Bits (DNF)
+- where it hurts less by GENDEMA (DNF)
 - choke enough by Oklou
-- Champion by Pom Poko
+- Champion by Pom Poko (DNF)
 - Black Classical Music by Yussef Dayes
 - Breathles (a bout de soufle)
-- Stalker
+- Stalker (DNF)
+- It's Winter by Rafi Pitts
+- Dungeons of Hinterberg (DNF)
+```
+
+## Currently Consuming
+```
+- Half Life 2
+- Emma by Jane Austen
+- Dopamine Nation by Anne Lembke
+- First Person Singular by Huraki Murakami
+- Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
 ```
