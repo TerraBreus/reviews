@@ -32,13 +32,9 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 ```
 - Brick Houses by Few Bits (DNF)
 - where it hurts less by GENDEMA (DNF)
-- choke enough by Oklou
 - Champion by Pom Poko (DNF)
 - Black Classical Music by Yussef Dayes
 - Stalker (DNF)
-- It's Winter by Rafi Pitts
-- Dungeons of Hinterberg (DNF)
-- The NeverEnding Story
 ```
 
 ## Currently Consuming
