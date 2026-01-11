@@ -31,10 +31,8 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 
 ```
 - Brick Houses by Few Bits (DNF)
-- where it hurts less by GENDEMA (DNF)
 - Champion by Pom Poko (DNF)
 - Black Classical Music by Yussef Dayes
-- Stalker (DNF)
 ```
 
 ## Currently Consuming
