@@ -33,6 +33,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Brick Houses by Few Bits (DNF)
 - Champion by Pom Poko (DNF)
 - Black Classical Music by Yussef Dayes
+- Stuck in Love
 - Little Children (Todd Field)
 - Forgetting Sarah Marshall
 - Sentimental Value
