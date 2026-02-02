@@ -38,6 +38,8 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Forgetting Sarah Marshall
 - Sentimental Value
 - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig (DNF)
+- The Head Hurts but the Heart Knows The Truth by Headache
+- Thank You For Almost Everything by Headache
 ```
 
 ## Currently Consuming
@@ -46,5 +48,4 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Emma by Jane Austen
 - Dopamine Nation by Anne Lembke
 - First Person Singular by Huraki Murakami
-
 ```
