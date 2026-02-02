@@ -37,6 +37,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Little Children (Todd Field)
 - Forgetting Sarah Marshall
 - Sentimental Value
+- Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig (DNF)
 ```
 
 ## Currently Consuming
@@ -45,5 +46,5 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Emma by Jane Austen
 - Dopamine Nation by Anne Lembke
 - First Person Singular by Huraki Murakami
-- Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+
 ```
