@@ -32,6 +32,8 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - [Programming:](./Programming) _Reflections on programming languages or school assignments._
 
 ## ToDo
+- **Convert this repo to webpage using github.io!**
+
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
@@ -52,4 +54,5 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Emma by Jane Austen
 - Dopamine Nation by Anne Lembke
 - First Person Singular by Huraki Murakami
+- Harry Potter Franchise (books + movies)
 ```
