@@ -46,6 +46,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Thank You For Almost Everything by Headache
 - Tread by Ross from Friends
 - Blake 7 (DNF)
+- Sassy Things by GENDEMA
 ```
 
 ## Currently Consuming
