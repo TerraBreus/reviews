@@ -25,9 +25,17 @@ I am a social, compassionate and hard working software engineer with a growing p
 The HEART Method.
 A small anagram for a developed introduction touching relevant fields for recruiters.
 H; How you introduce yourself.
+  The opening statement. Pick some adjectives that describe you, then your current role (Software Engineer Student) and then a CTA/ambition.
 E; Experience.
+  Projects you have worked on that contributed to the qualities that you currently have (or make you perfect for the job).
+  Focus on what you have learned.
 A; Advantage.
+  What do people value about working with you. What is the value you bring to the company.
 R; Reason.
+  Why are you applying for this specific role. Why are you interested in this specific field.
+  What is your reason for applying?
 T; Touch of Human.
-
+  A small (human!!!) detail that makes you memorable.
+  "I enjoy making music and hope to one day create a rock-opera."
 ```
+
