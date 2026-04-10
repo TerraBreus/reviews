@@ -18,4 +18,6 @@ Written on 11-11-2025
 ---
 This album has been the only album on my iPod Shuffle for a while so I've given it many, many plays and though I agree it is a bit sweet, I found myself surprised how easily this album transitions between songs. I must have given the album over a fifty plays and the dialogue between the instruments is truly wonderful to hear. If music is a language, this album is highly literate. 
 
-Very few times did I find myself bored in the two weeks that I listened to this album on repeat. And, for that reason, I believe I should re-rate this album to a **9/10**
+Very few times did I find myself bored in the two weeks that I listened to this album on repeat. And, for that reason, I believe I should re-rate this album.
+
+**9/10**
