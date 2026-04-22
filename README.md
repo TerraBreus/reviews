@@ -37,9 +37,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Sentimental Value
 - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig (DNF)
 - Thank You For Almost Everything by Headache
-- Tread by Ross from Friends
 - Blake 7 (DNF)
-- Sassy Things by GENDEMA
 ```
 
 ## Currently Consuming
