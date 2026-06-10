@@ -32,7 +32,6 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
-- Black Classical Music by Yussef Dayes
 - Forgetting Sarah Marshall
 - Sentimental Value
 - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig (DNF)
