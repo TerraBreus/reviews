@@ -37,6 +37,9 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig (DNF)
 - Thank You For Almost Everything by Headache
 - Blake 7 (DNF)
+- HYPERYOUTH
+- Equus Asinus by Men I Trust
+- This Could Be Texas by English Teacher
 ```
 
 ## Currently Consuming
