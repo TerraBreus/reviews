@@ -32,9 +32,7 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 `Some reviews I still want to make but have not found the time/energy for:`
 
 ```
-- HYPERYOUTH
-- Equus Asinus by Men I Trust
-- This Could Be Texas by English Teacher
+- What is your name by the now and never
 ```
 
 ## Currently Consuming
