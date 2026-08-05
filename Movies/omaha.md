@@ -10,7 +10,7 @@ to show the true complexity and dynamic of the characters. It scratches the righ
 
 The best part of the movie was definitely when it ended, but not because it was finished...
 
-7/10
+6.5/10
 
 Watched on 4/8/26
 
