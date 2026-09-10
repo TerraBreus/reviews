@@ -18,6 +18,13 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - NO AI! Beats the whole purpose of this repo...
 - No additional sources to influence your opinion.
 ```
+#### ToDo
+```
+- The Invite
+- It Goes On by Westside Cowboy
+- Parachutes by Coldplay
+- Buena Vista Social Club y Buena Vista Social Club
+```
 
 ## ToC
 - [Movies:](./Movies) _Movies I've recently seen. Often in the cinema's._
