@@ -20,10 +20,9 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 ```
 #### ToDo
 ```
-- The Invite
-- It Goes On by Westside Cowboy
 - Parachutes by Coldplay
-- Buena Vista Social Club y Buena Vista Social Club
+- Buena Vista Social Club by Buena Vista Social Club
+- The Slim Shady LP by Eminim
 ```
 
 ## ToC
