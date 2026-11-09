@@ -18,12 +18,6 @@ By writing (short) reviews on what I consume, I hope to restore balance between 
 - NO AI! Beats the whole purpose of this repo...
 - No additional sources to influence your opinion.
 ```
-#### ToDo
-```
-- Parachutes by Coldplay
-- Buena Vista Social Club by Buena Vista Social Club
-- The Slim Shady LP by Eminim
-```
 
 ## ToC
 - [Movies:](./Movies) _Movies I've recently seen. Often in the cinema's._
